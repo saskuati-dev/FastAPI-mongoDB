@@ -64,6 +64,4 @@ Este projeto fornece um exemplo básico de como criar uma API RESTful usando Fas
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
-## Licença
 
-[MIT](LICENSE)
