@@ -55,10 +55,9 @@ Este projeto fornece um exemplo básico de como criar uma API RESTful usando Fas
 ## Endpoints
 
 *   `GET /`: Endpoint raiz (pode retornar uma mensagem de boas-vindas).
-*   `POST /items/`: Cria um novo item.
-*   `GET /items/{item_id}`: Retorna um item específico.
-*   `PUT /items/{item_id}`: Atualiza um item existente.
-*   `DELETE /items/{item_id}`: Exclui um item.
+*   `POST /`: Cria um novo item.
+*   `PUT /{item_id}`: Atualiza um item existente.
+*   `DELETE /{item_id}`: Exclui um item.
 
 ## Contribuição
 
